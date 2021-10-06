@@ -1,4 +1,4 @@
-# Enlaces laboratorios curso IA en AZURE - SENA
+# Index: curso IA en AZURE - SENA
 
 
 En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) puede navegar en todas las lecciones. A continuación se hace un resumen de los enlaces al material que se referencia en el curso.
