@@ -47,10 +47,10 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
   * [Demo, LUIS](https://aidemos.microsoft.com/luis/demo)
 
 * Lección 2: [Uso de servicios de procesamiento del lenguaje natural]()
-  * [Text Analytics](TextAnalytics.ipynb)
-  * [Reconocimiento de voz y síntesis](Speech.ipynb)
-  * [Traducción](Translation.ipynb)
-  * [Language Understanding](LanguageUnderstanding.ipynb) y [LUIS](www.luis.ai)
+  * [Text Analytics](07%20-%20Text%20Analytics.ipynb)
+  * [Reconocimiento de voz y síntesis](08%20-%20Speech.ipynb)
+  * [Traducción](09%20-%20Translation.ipynb)
+  * [Language Understanding](10%20-%20Language%20Understanding.ipynb) y [LUIS](www.luis.ai)
   * Lab 3: [Languaje Understanding](https://docs.microsoft.com/es-es/learn/modules/create-language-model-with-language-understanding/)
 
 ### Módulo 5: IA de Conversación
