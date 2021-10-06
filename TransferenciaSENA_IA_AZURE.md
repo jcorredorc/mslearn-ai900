@@ -12,21 +12,21 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
 * Lección 1: Inteligencia Artificial en Azure
     
     * [Portal Azure](https://portal.azure.com)
-      * Revisar los [Fundamentos de AZURE](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-cloud-concepts/) y como navegar en el [Portal AZURE](https://docs.microsoft.com/es-es/learn/modules/tour-azure-portal/)
+      * Revisar los [Fundamentos de AZURE](https://docs.microsoft.com/es-es/learn/paths/az-900-describe-cloud-concepts/) y cómo navegar en el [Portal AZURE](https://docs.microsoft.com/es-es/learn/modules/tour-azure-portal/)
 
 * Lección 2: Inteligencia Artificial responsable 
   
     * [Inteligencia Artificial Responsable](https://docs.microsoft.com/es-es/learn/modules/get-started-ai-fundamentals/8-understand-responsible-ai?ns-enrollment-type=LearningPath&ns-enrollment-id=learn.wwl.get-started-with-artificial-intelligence-on-azure), recuerde habilitar en los videos los subtitulos en español.
     * [AI Responsable](https://www.microsoft.com/es-mx/ai/responsible-ai?rtc=2&activetab=pivot1:primaryr6)
     * [Demos en ingles](https://aidemos.microsoft.com/responsible-conversational-ai/building-a-trustworthy-bot)
-* [Introducción a la IA en AZURE](https://docs.microsoft.com/es-es/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 
-### Módulo 2: Aprendizaje automático
+### Módulo 2: [Aprendizaje automático](https://aka.ms/no-code-ml-spa)
 
-* Lección 1: [Introducción al aprendizaje automático](https://aka.ms/no-code-ml-spa)
+* Lección 1: [Introducción al aprendizaje automático](https://docs.microsoft.com/es-es/learn/paths/get-started-with-artificial-intelligence-on-azure/)
 
 * Lección 2: Azure Machine Learning, 
   * Lab 1: [Aprendizaje automático automatizado en Azure Machine Learning](https://docs.microsoft.com/es-mx/learn/modules/use-automated-machine-learning/)
+  * Otros laboratorios para [clasificación](https://docs.microsoft.com/es-es/learn/modules/create-classification-model-azure-machine-learning-designer/) o [regresión](https://docs.microsoft.com/es-es/learn/modules/create-regression-model-azure-machine-learning-designer/)
 
 ---
 
