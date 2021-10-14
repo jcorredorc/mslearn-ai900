@@ -46,7 +46,7 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
   * [Demos, análisis de textos](https://aidemos.microsoft.com/text-analytics)
   * [Demo, LUIS](https://aidemos.microsoft.com/luis/demo)
 
-* Lección 2: [Uso de servicios de procesamiento del lenguaje natural]()
+* Lección 2: [Uso de servicios de procesamiento del lenguaje natural](https://aka.ms/explore-nlp-spa)
   * [Text Analytics](07%20-%20Text%20Analytics.ipynb)
   * [Reconocimiento de voz y síntesis](08%20-%20Speech.ipynb)
   * [Traducción](09%20-%20Translation.ipynb)
