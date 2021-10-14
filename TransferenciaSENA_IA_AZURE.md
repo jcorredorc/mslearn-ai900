@@ -34,7 +34,7 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
 
 ### Módulo 3: Computer Vision
 
-* Lección 1: [Conceptos de Computer Vision](https://aka.ms/explore-computer-visión-spa)
+* Lección 1: [Conceptos de Computer Vision](https://aka.ms/explore-computer-vision-spa)
   * [Demos](https://aidemos.microsoft.com/computer-vision) - En inglés
 * Lección 2: Computer Vision en AZURE
   * Lab 2 : [Clasificaciónd de imagenes con CustomVision](https://docs.microsoft.com/es-es/learn/modules/classify-images-custom-vision/ )
