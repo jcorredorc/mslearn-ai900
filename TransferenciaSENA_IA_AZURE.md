@@ -37,7 +37,7 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
 * Lección 1: [Conceptos de Computer Vision](https://aka.ms/explore-computer-vision-spa)
   * [Demos](https://aidemos.microsoft.com/computer-vision) - En inglés
 * Lección 2: Computer Vision en AZURE
-  * Lab 2 : [Clasificaciónd de imagenes con CustomVision](https://docs.microsoft.com/es-es/learn/modules/classify-images-custom-vision/ ) - [ver lab2](https://github.com/jcorredorc/mslearn-ai900/blob/36e696cfddf4e9e1d8aa144e41be0cc97113162d/02%20-%20Image%20Classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/)
+  * Lab 2 : [Clasificaciónd de imagenes con CustomVision](https://docs.microsoft.com/es-es/learn/modules/classify-images-custom-vision/ )   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcorredorc/mslearn-ai900/blob/main/02-ImageClassification.ipynb)
 
   * Otros laboratorios a explorar: 04 - Análisis con Face, 05 - Reconocimiento óptico de caracteres y 06 - Recibos con Form Recognizer. 03 - Detección de objetos que puede llevar algo más de tiempo.
 
@@ -52,7 +52,7 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
   * [Reconocimiento de voz y síntesis](08%20-%20Speech.ipynb)
   * [Traducción](09%20-%20Translation.ipynb)
   * [Language Understanding](10%20-%20Language%20Understanding.ipynb) y [LUIS](www.luis.ai)
-  * Lab 3: [Languaje Understanding](https://docs.microsoft.com/es-es/learn/modules/create-language-model-with-language-understanding/)
+  * Lab 3: [Languaje Understanding](https://docs.microsoft.com/es-es/learn/modules/create-language-model-with-language-understanding/)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcorredorc/mslearn-ai900/blob/main/10%20-%20Language%20Understanding.ipynb)
 
 ### Módulo 5: IA de Conversación
 
@@ -60,4 +60,4 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
   * IA responsable para bots, ver [1](https://www.microsoft.com/research/publication/responsible-bots/) y [2](https://aidemos.microsoft.com/responsible-conversational-ai/building-a-trustworthy-bot)
   <!-- * [Demo de bot](https://www.microsoft.com/es-es/research/project/health-bot/) -->
 * Lección 2: IA de conversación en Azure
-  * Lab 4. [Crear un bot](https://docs.microsoft.com/es-es/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/)
+  * Lab 4. [Crear un bot](https://docs.microsoft.com/es-es/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcorredorc/mslearn-ai900/blob/main/11%20-%20QnA%20Bot.ipynb)
