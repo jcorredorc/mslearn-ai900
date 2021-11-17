@@ -37,7 +37,8 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
 * Lección 1: [Conceptos de Computer Vision](https://aka.ms/explore-computer-vision-spa)
   * [Demos](https://aidemos.microsoft.com/computer-vision) - En inglés
 * Lección 2: Computer Vision en AZURE
-  * Lab 2 : [Clasificaciónd de imagenes con CustomVision](https://docs.microsoft.com/es-es/learn/modules/classify-images-custom-vision/ )
+  * Lab 2 : [Clasificaciónd de imagenes con CustomVision](https://docs.microsoft.com/es-es/learn/modules/classify-images-custom-vision/ ) - [ver lab2](https://github.com/jcorredorc/mslearn-ai900/blob/36e696cfddf4e9e1d8aa144e41be0cc97113162d/02%20-%20Image%20Classification.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/)
+
   * Otros laboratorios a explorar: 04 - Análisis con Face, 05 - Reconocimiento óptico de caracteres y 06 - Recibos con Form Recognizer. 03 - Detección de objetos que puede llevar algo más de tiempo.
 
 ### Módulo 4: Procesamiento de lenguaje natural
