@@ -1,7 +1,7 @@
 # Index: curso IA en AZURE - SENA
 
 
-En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) puede navegar en todas las lecciones. A continuación se hace un resumen de los enlaces al material que se referencia en el curso.
+En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals) puede navegar en todas las lecciones proporcionadas por AZURE. A continuación se hace un resumen de los enlaces al material que se referencia en el curso.
 
 ---
 
@@ -61,3 +61,14 @@ En [Rutas de aprendizaje](https://docs.microsoft.com/learn/certifications/azure-
   <!-- * [Demo de bot](https://www.microsoft.com/es-es/research/project/health-bot/) -->
 * Lección 2: IA de conversación en Azure
   * Lab 4. [Crear un bot](https://docs.microsoft.com/es-es/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcorredorc/mslearn-ai900/blob/main/11%20-%20QnA%20Bot.ipynb)
+
+
+---
+
+## Aplicación de IA para Mecatrónicos en robótica móvil
+
+El siguiente material es adicional a los fundamentos presentados en las sesiones 1 y 2. Este material sirve al instructor para presentar aplicaciones de IA a la robótica móvil
+
+* Lección 1: [Robot móvil en tarea seguimiento de la pared - modelos IA](https://github.com/jcorredorc/learning_ml/tree/main/Proyecto)
+
+* Lección 2: [Robot de servicio](https://github.com/jcorredorc/home_service_robot/tree/sena_ia)
